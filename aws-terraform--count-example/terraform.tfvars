@@ -1,0 +1,5 @@
+aws_access_key = "xxxx"
+aws_secret_key = "xxxx"
+aws_region = "ap-south-1"
+aws_ami = "ami-02b49a24cfb95941c"
+aws_instance = "t2.micro"
